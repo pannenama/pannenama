@@ -58,7 +58,7 @@ backend                                           ( •̀ω•́ )✧
 
 <br>
 
-### fun facts (˶˃ ᵕ ˂˶)
+### fun facts 
 
 - Currently learning how to better rice my Linux setup! I use CachyOS with Hyprland + Caelestia shell. Check out my [caelestia-shell](https://github.com/pannenama/caelestia-shell) repo for more. (Still a work in progress, I'm just a beginner!)
 - I make art, from video editing and photography to design and illustration!
