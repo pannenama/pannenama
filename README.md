@@ -7,7 +7,7 @@
 **Tech Intern** @ StellarPH  
 **2nd Yr. Artificial Intelligence Engineering** @ Mapúa University Intramuros
 
-I work across hardware and software, from robots that sense and move in the real world to the interfaces and servers behind them.
+I work on robotics, web design, and full stack development!
 
 ```
 robotics                                          (•̀ᴗ•́)و
